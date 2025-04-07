@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1860648137084294a0d6f09ed990881d" Name="Diagram1">
+        <EntityTypeShape EntityType="VynilStoreModel.Album" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="VynilStoreModel.Artist" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="VynilStoreModel.Genre" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="VynilStoreModel.OrderDetail" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="VynilStoreModel.Order" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="VynilStoreModel.User" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="VynilStoreModel.FK__Albums__Artist_I__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="VynilStoreModel.FK__Albums__Genre_ID__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="VynilStoreModel.FK__OrderDeta__Album__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="VynilStoreModel.FK__OrderDeta__Order__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="VynilStoreModel.FK__Orders__Users_ID__45F365D3" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

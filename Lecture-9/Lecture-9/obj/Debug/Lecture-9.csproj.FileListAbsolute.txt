@@ -1,0 +1,16 @@
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\Lecture-9.exe.config
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\Lecture-9.exe
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\Lecture-9.pdb
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\EntityFramework.dll
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\EntityFramework.xml
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.csproj.AssemblyReference.cache
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture_9.Form1.resources
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture_9.Properties.Resources.resources
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.csproj.GenerateResource.cache
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.csproj.CoreCompileInputs.cache
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.csproj.CopyComplete
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.exe
+C:\Users\lab321student12\Desktop\Lecture-9\Lecture-9\obj\Debug\Lecture-9.pdb
