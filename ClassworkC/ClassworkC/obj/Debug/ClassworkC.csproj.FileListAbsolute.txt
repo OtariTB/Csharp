@@ -1,0 +1,16 @@
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.exe.config
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.exe
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.pdb
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.dll
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.xml
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.AssemblyReference.cache
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.Form1.resources
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.Properties.Resources.resources
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.GenerateResource.cache
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.CoreCompileInputs.cache
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.CopyComplete
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.exe
+C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.pdb

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VynilStoreModelStoreContainer" CdmEntityContainer="VynilStoreEntities">
+    <EntitySetMapping Name="Albums">
+      <EntityTypeMapping TypeName="VynilStoreModel.Album">
+        <MappingFragment StoreEntitySet="Albums">
+          <ScalarProperty Name="Album_ID" ColumnName="Album_ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="inStock" ColumnName="inStock" />
+          <ScalarProperty Name="Artist_ID" ColumnName="Artist_ID" />
+          <ScalarProperty Name="Genre_ID" ColumnName="Genre_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Artists">
+      <EntityTypeMapping TypeName="VynilStoreModel.Artist">
+        <MappingFragment StoreEntitySet="Artists">
+          <ScalarProperty Name="Artist_ID" ColumnName="Artist_ID" />
+          <ScalarProperty Name="ArtistName" ColumnName="ArtistName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Genres">
+      <EntityTypeMapping TypeName="VynilStoreModel.Genre">
+        <MappingFragment StoreEntitySet="Genres">
+          <ScalarProperty Name="Genre_ID" ColumnName="Genre_ID" />
+          <ScalarProperty Name="GenreName" ColumnName="GenreName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDetails">
+      <EntityTypeMapping TypeName="VynilStoreModel.OrderDetail">
+        <MappingFragment StoreEntitySet="OrderDetails">
+          <ScalarProperty Name="OrderDetail_ID" ColumnName="OrderDetail_ID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+          <ScalarProperty Name="Album_ID" ColumnName="Album_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="VynilStoreModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Order_ID" ColumnName="Order_ID" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="OrderAmount" ColumnName="OrderAmount" />
+          <ScalarProperty Name="Users_ID" ColumnName="Users_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="VynilStoreModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Users_ID" ColumnName="Users_ID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionName="VynilStoreModel.Store.GetAlbumByArtist" FunctionImportName="GetAlbumByArtist">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VynilStoreModel.GetAlbumByArtist_Result">
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="inStock" ColumnName="inStock" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AddAlbum" FunctionName="VynilStoreModel.Store.AddAlbum" />
+    <FunctionImportMapping FunctionImportName="AlbumQuantity" FunctionName="VynilStoreModel.Store.AlbumQuantity">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VynilStoreModel.AlbumQuantity_Result">
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="instock" ColumnName="instock" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DeleteAlbum" FunctionName="VynilStoreModel.Store.DeleteAlbum" />
+    <FunctionImportMapping FunctionImportName="FilterAlbums" FunctionName="VynilStoreModel.Store.FilterAlbums">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VynilStoreModel.FilterAlbums_Result">
+          <ScalarProperty Name="Album_ID" ColumnName="Album_ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="inStock" ColumnName="inStock" />
+          <ScalarProperty Name="Artist_ID" ColumnName="Artist_ID" />
+          <ScalarProperty Name="Genre_ID" ColumnName="Genre_ID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAlbums" FunctionName="VynilStoreModel.Store.GetAlbums">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VynilStoreModel.GetAlbums_Result">
+          <ScalarProperty Name="Album_ID" ColumnName="Album_ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="inStock" ColumnName="inStock" />
+          <ScalarProperty Name="Artist_ID" ColumnName="Artist_ID" />
+          <ScalarProperty Name="Genre_ID" ColumnName="Genre_ID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
