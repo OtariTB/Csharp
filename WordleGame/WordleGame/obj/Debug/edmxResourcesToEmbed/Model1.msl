@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WordleDBModelStoreContainer" CdmEntityContainer="WordleDBEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="WordleDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="U_Id" ColumnName="U_Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Words">
+      <EntityTypeMapping TypeName="WordleDBModel.Word">
+        <MappingFragment StoreEntitySet="Words">
+          <ScalarProperty Name="W_Id" ColumnName="W_Id" />
+          <ScalarProperty Name="Words" ColumnName="Words" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddUser" FunctionName="WordleDBModel.Store.AddUser" />
+  </EntityContainerMapping>
+</Mapping>
