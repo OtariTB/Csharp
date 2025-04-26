@@ -16,3 +16,23 @@ C:\Users\GSSHOP.GE\source\repos\WordleGame\WordleGame\bin\Debug\EntityFramework.
 C:\Users\GSSHOP.GE\source\repos\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.xml
 C:\Users\GSSHOP.GE\source\repos\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.Up2Date
 C:\Users\GSSHOP.GE\source\repos\WordleGame\WordleGame\obj\Debug\WordleGame.GameForm.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.AssemblyReference.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form1.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form2.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.GameForm.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Properties.Resources.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.GenerateResource.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.CoreCompileInputs.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.exe
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.pdb
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.exe.config
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.exe
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.pdb
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.dll
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.xml
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.Up2Date
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form3.resources

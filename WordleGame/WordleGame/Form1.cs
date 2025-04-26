@@ -27,48 +27,32 @@ namespace WordleGame
         private void loginBtn_Click(object sender, EventArgs e)
         {
             string email = emailBox.Text;
-            string password = passBox.Text;
+            
 
-            if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
+            if (string.IsNullOrWhiteSpace(email))
             {
                 MessageBox.Show("Please enter Email and Password.");
                 return;
             }
-            var user = _db.Users.FirstOrDefault(x => x.Email == email && x.Pass == password);
+            var user = _db.Users.FirstOrDefault(x => x.Email == email);
             if (user != null)
             {
-                MessageBox.Show("Login Successful");
-                GameForm main = new GameForm();
+                MessageBox.Show("You Already Have an Account ! \n Loading Log In Page.");
+                Form3 loginform = new Form3();
                 this.Hide();
-                main.Show();
-                main.FormClosed += (s, args) => this.Close();
+                loginform.Show();
+                loginform.FormClosed += (s, args) => this.Close();
             }
             else
             {
-                MessageBox.Show("Invalid Email Or Password");
+                MessageBox.Show("There is No Account with this Email Address \n Loading Sign Up page !");
+                Form2 main = new Form2();
+                this.Hide();
+                main.Show();
+                main.FormClosed += (s, args) => this.Close();
+
             }
         }
 
-        private void SignUpBtn_Click(object sender, EventArgs e)
-        {
-            string email = emailBox.Text;
-            string password = passBox.Text;
-
-            if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
-            {
-                MessageBox.Show("Please enter Email and Password.");
-                return;
-            }
-
-            try
-            {
-                _db.AddUser(email, password);
-                MessageBox.Show("Account Successfully Ceated! \n You can Log In now!");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
     }
 }

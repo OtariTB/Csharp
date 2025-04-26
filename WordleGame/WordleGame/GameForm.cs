@@ -21,5 +21,13 @@ namespace WordleGame
         {
             Close();
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            Form2 main = new Form2();
+            this.Hide();
+            main.Show();
+            main.FormClosed += (s, args) => this.Close();
+        }
     }
 }
