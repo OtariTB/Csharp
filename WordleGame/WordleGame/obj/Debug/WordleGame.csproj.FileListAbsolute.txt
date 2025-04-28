@@ -36,3 +36,24 @@ C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debu
 C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.xml
 C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.Up2Date
 C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form3.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.exe.config
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.exe
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\WordleGame.pdb
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.dll
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.xml
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.AssemblyReference.cache
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form1.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form2.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Form3.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.GameForm.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Properties.Resources.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.GenerateResource.cache
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.CoreCompileInputs.cache
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.CopyComplete
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.exe
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.pdb
