@@ -57,3 +57,5 @@ C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGa
 C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.csproj.CopyComplete
 C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.exe
 C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.pdb
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Game.resources
+C:\Users\lab321student17\Desktop\Csharp\WordleGame\WordleGame\obj\Debug\WordleGame.Stats.resources

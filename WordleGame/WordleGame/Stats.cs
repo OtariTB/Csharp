@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WordleGame
 {
-    public partial class GameForm : Form
+    public partial class Stats : Form
     {
-        public GameForm()
+        public Stats()
         {
             InitializeComponent();
         }
@@ -23,24 +23,6 @@ namespace WordleGame
             this.Hide();
             game.Show();
             game.FormClosed += (s, args) => this.Close();
-        }
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-            Form2 main = new Form2();
-            this.Hide();
-            main.Show();
-            main.FormClosed += (s, args) => this.Close();
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label15_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

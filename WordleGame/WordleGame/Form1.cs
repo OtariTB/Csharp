@@ -14,6 +14,7 @@ namespace WordleGame
     public partial class Form1 : Form
     {
         private WordleDBEntities _db = new WordleDBEntities();
+        private WordleModel
         public Form1()
         {
             InitializeComponent();
@@ -54,5 +55,12 @@ namespace WordleGame
             }
         }
 
+        private void label6_Click(object sender, EventArgs e)
+        {
+            Form3 loginform = new Form3();
+            this.Hide();
+            loginform.Show();
+            loginform.FormClosed += (s, args) => this.Close();
+        }
     }
 }

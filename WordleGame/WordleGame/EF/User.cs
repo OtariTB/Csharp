@@ -1,4 +1,4 @@
-namespace WordleGame
+namespace WordleGame.EF
 {
     using System;
     using System.Collections.Generic;
