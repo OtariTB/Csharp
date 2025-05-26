@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using WordleGame.EF;
 
 namespace WordleGame
 {
     public partial class Form1 : Form
     {
-        private WordleDBEntities _db = new WordleDBEntities();
-        private WordleModel
+        private WordleModel _db = new WordleModel();
         public Form1()
         {
             InitializeComponent();

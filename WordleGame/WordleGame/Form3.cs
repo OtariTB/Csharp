@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WordleGame.EF;
 
 namespace WordleGame
 {
     public partial class Form3 : Form
     {
-        private WordleDBEntities _db = new WordleDBEntities();
+        private WordleModel _db = new WordleModel();
         public Form3()
         {
             InitializeComponent();

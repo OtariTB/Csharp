@@ -14,8 +14,8 @@ namespace WordleGame.EF
 
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Word> Words { get; set; }
-        public virtual DbSet<Game> Games { get; set; }
-        public virtual DbSet<Guess> Guesses { get; set; }
+
+        public DbSet<Guess> Guesses { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
         }

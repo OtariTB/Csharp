@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WordleGame.EF;
 
 namespace WordleGame
 {
     public partial class Form2 : Form
     {
-        private WordleDBEntities _db = new WordleDBEntities();
+        private WordleModel _db = new WordleModel();
         public Form2()
         {
             InitializeComponent();
@@ -40,7 +41,15 @@ namespace WordleGame
 
             try
             {
-                _db.AddUser(email, password);
+                var newUser = new User
+                {
+                    Email = email,
+                    Pass = password
+                };
+
+                _db.Users.Add(newUser);
+                _db.SaveChanges();
+
                 MessageBox.Show("Account Successfully Ceated! \n You can Log In now!");
                 Form3 loginform = new Form3();
                 this.Hide();

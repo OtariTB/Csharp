@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\ef\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\ef\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\ef\\wordlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\ef\\wordlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\wordlegame\\wordlegame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A441E36-1C8B-43FC-8131-8C262FD2F2F7}|WordleGame\\WordleGame.csproj|solutionrelative:wordlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +66,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stats.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Stats.cs",
+              "RelativeDocumentMoniker": "WordleGame\\Stats.cs",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Stats.cs [Design]",
+              "RelativeToolTip": "WordleGame\\Stats.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:16:18.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Game.cs",
+              "RelativeDocumentMoniker": "WordleGame\\Game.cs",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Game.cs",
+              "RelativeToolTip": "WordleGame\\Game.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAYwJEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:02:30.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Game.cs",
+              "RelativeDocumentMoniker": "WordleGame\\Game.cs",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Game.cs [Design]",
+              "RelativeToolTip": "WordleGame\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:02:19.708Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guess.cs",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\EF\\Guess.cs",
+              "RelativeDocumentMoniker": "WordleGame\\EF\\Guess.cs",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\EF\\Guess.cs",
+              "RelativeToolTip": "WordleGame\\EF\\Guess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:43:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\App.config",
+              "RelativeDocumentMoniker": "WordleGame\\App.config",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\App.config",
+              "RelativeToolTip": "WordleGame\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-26T14:20:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordleModel.cs",
+              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\EF\\WordleModel.cs",
+              "RelativeDocumentMoniker": "WordleGame\\EF\\WordleModel.cs",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\EF\\WordleModel.cs",
+              "RelativeToolTip": "WordleGame\\EF\\WordleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:11:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form3.cs",
               "RelativeDocumentMoniker": "WordleGame\\Form3.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form3.cs",
               "RelativeToolTip": "WordleGame\\Form3.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T11:46:43.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form2.cs",
               "RelativeDocumentMoniker": "WordleGame\\Form2.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form2.cs",
               "RelativeToolTip": "WordleGame\\Form2.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAWwDwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T11:21:10.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form3.cs",
               "RelativeDocumentMoniker": "WordleGame\\Form3.cs",
@@ -88,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form2.cs",
               "RelativeDocumentMoniker": "WordleGame\\Form2.cs",
@@ -100,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "GameForm.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\GameForm.cs",
               "RelativeDocumentMoniker": "WordleGame\\GameForm.cs",
@@ -108,31 +204,18 @@
               "RelativeToolTip": "WordleGame\\GameForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:52:59.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T17:52:59.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "GameForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\GameForm.cs",
               "RelativeDocumentMoniker": "WordleGame\\GameForm.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\GameForm.cs [Design]",
               "RelativeToolTip": "WordleGame\\GameForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:03:29.607Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Model1.edmx",
-              "RelativeDocumentMoniker": "WordleGame\\Model1.edmx",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "WordleGame\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-04-25T16:46:38.291Z"
+              "WhenOpened": "2025-04-25T17:03:29.607Z"
             },
             {
               "$type": "Document",
@@ -142,14 +225,14 @@
               "RelativeDocumentMoniker": "WordleGame\\Form1.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form1.cs",
               "RelativeToolTip": "WordleGame\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T15:54:36.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\WordleGame\\WordleGame\\Form1.cs",
               "RelativeDocumentMoniker": "WordleGame\\Form1.cs",
