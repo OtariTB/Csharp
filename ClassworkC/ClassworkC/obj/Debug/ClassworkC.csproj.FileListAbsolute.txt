@@ -14,3 +14,18 @@ C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\Cl
 C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.CopyComplete
 C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.exe
 C:\Users\lab321student12\Desktop\otarC\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.pdb
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.exe.config
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.exe
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\ClassworkC.pdb
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.dll
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.xml
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.AssemblyReference.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.Form1.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.Properties.Resources.resources
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.GenerateResource.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.CoreCompileInputs.cache
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.csproj.Up2Date
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.exe
+C:\Users\GSSHOP.GE\OneDrive - EMIS\Desktop\Csharp\ClassworkC\ClassworkC\obj\Debug\ClassworkC.pdb
