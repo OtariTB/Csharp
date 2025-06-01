@@ -5,12 +5,11 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="299f1b80c98245aca66f370458cba36d" Name="Diagram1" ZoomLevel="97">
-        <EntityTypeShape EntityType="StoredbModel.Customer" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="StoredbModel.Order" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoredbModel.Customer" Width="1.5" PointX="2.125" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoredbModel.Order" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="StoredbModel.OrderItem" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
         <EntityTypeShape EntityType="StoredbModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="StoredbModel.Supplier" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="StoredbModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
         <AssociationConnector Association="StoredbModel.FK__Order__CustomerI__3E52440B" ManuallyRouted="false" />
         <AssociationConnector Association="StoredbModel.FK__OrderItem__Order__412EB0B6" ManuallyRouted="false" />
         <AssociationConnector Association="StoredbModel.FK__OrderItem__Produ__4222D4EF" ManuallyRouted="false" />

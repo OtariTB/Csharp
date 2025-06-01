@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WordleGame.EF;
 
 namespace WordleGame
 {
     public partial class GameForm : Form
     {
+        private User _loggedInUser;
         public GameForm()
         {
             InitializeComponent();
@@ -19,7 +21,7 @@ namespace WordleGame
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Game game = new Game();
+            Game game = new Game(_loggedInUser);
             this.Hide();
             game.Show();
             game.FormClosed += (s, args) => this.Close();

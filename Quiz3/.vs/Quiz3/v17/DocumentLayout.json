@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,32 +11,40 @@
       "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\storedbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\storedbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\quiz3\\quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\storedbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\storedbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4B625CD-2168-4562-9D20-E4337473D843}|Quiz3\\Quiz3.csproj|solutionrelative:quiz3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form2.cs",
               "RelativeDocumentMoniker": "Quiz3\\Form2.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form2.cs",
               "RelativeToolTip": "Quiz3\\Form2.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAswJUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAA7wJUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:50:24.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:50:24.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "OrderItems.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\OrderItems.cs",
               "RelativeDocumentMoniker": "Quiz3\\OrderItems.cs",
@@ -79,24 +78,22 @@
               "RelativeToolTip": "Quiz3\\OrderItems.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAwwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:48:47.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:48:47.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrderItems.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\OrderItems.cs",
               "RelativeDocumentMoniker": "Quiz3\\OrderItems.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\OrderItems.cs [Design]",
               "RelativeToolTip": "Quiz3\\OrderItems.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:47:38.222Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T17:47:38.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Suppliers.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Suppliers.cs",
               "RelativeDocumentMoniker": "Quiz3\\Suppliers.cs",
@@ -104,36 +101,33 @@
               "RelativeToolTip": "Quiz3\\Suppliers.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwCwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:42:16.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:42:16.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Suppliers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Suppliers.cs",
               "RelativeDocumentMoniker": "Quiz3\\Suppliers.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Suppliers.cs [Design]",
               "RelativeToolTip": "Quiz3\\Suppliers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:41:36.296Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T17:41:36.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form2.cs",
               "RelativeDocumentMoniker": "Quiz3\\Form2.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form2.cs [Design]",
               "RelativeToolTip": "Quiz3\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:39:45.476Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T17:39:45.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Orders.cs",
               "RelativeDocumentMoniker": "Quiz3\\Orders.cs",
@@ -141,37 +135,35 @@
               "RelativeToolTip": "Quiz3\\Orders.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAkwCgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:37:15.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:37:15.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Orders.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Orders.cs",
               "RelativeDocumentMoniker": "Quiz3\\Orders.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Orders.cs [Design]",
               "RelativeToolTip": "Quiz3\\Orders.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:34:31.968Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-27T17:34:31.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form1.cs",
               "RelativeDocumentMoniker": "Quiz3\\Form1.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form1.cs",
               "RelativeToolTip": "Quiz3\\Form1.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAA7wJ0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwGYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T13:50:02.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\Form1.cs",
               "RelativeDocumentMoniker": "Quiz3\\Form1.cs",
@@ -183,15 +175,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "StoredbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\StoredbModel.edmx",
               "RelativeDocumentMoniker": "Quiz3\\StoredbModel.edmx",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\Quiz3\\Quiz3\\StoredbModel.edmx [Diagram1]",
               "RelativeToolTip": "Quiz3\\StoredbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-05-27T13:49:04.981Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-05-27T13:49:04.981Z"
             }
           ]
         }

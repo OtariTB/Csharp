@@ -126,9 +126,6 @@
     <Compile Include="Suppliers.Designer.cs">
       <DependentUpon>Suppliers.cs</DependentUpon>
     </Compile>
-    <Compile Include="sysdiagram.cs">
-      <DependentUpon>StoredbModel.tt</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

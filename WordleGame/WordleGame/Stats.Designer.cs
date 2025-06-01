@@ -34,10 +34,10 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
+            this.totalGamesLabel = new System.Windows.Forms.Label();
+            this.winLabel = new System.Windows.Forms.Label();
+            this.maxStreakLabel = new System.Windows.Forms.Label();
+            this.CurrentStreakLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -102,55 +102,55 @@
             this.label6.TabIndex = 6;
             this.label6.Text = "Current Streak";
             // 
-            // label7
+            // totalGamesLabel
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(92, 82);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(73, 86);
-            this.label7.TabIndex = 7;
-            this.label7.Text = "0";
+            this.totalGamesLabel.AutoSize = true;
+            this.totalGamesLabel.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.totalGamesLabel.Location = new System.Drawing.Point(92, 82);
+            this.totalGamesLabel.Name = "totalGamesLabel";
+            this.totalGamesLabel.Size = new System.Drawing.Size(73, 86);
+            this.totalGamesLabel.TabIndex = 7;
+            this.totalGamesLabel.Text = "0";
             // 
-            // label8
+            // winLabel
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(181, 82);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(73, 86);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "0";
+            this.winLabel.AutoSize = true;
+            this.winLabel.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.winLabel.Location = new System.Drawing.Point(181, 82);
+            this.winLabel.Name = "winLabel";
+            this.winLabel.Size = new System.Drawing.Size(73, 86);
+            this.winLabel.TabIndex = 8;
+            this.winLabel.Text = "0";
             // 
-            // label9
+            // maxStreakLabel
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(286, 82);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(73, 86);
-            this.label9.TabIndex = 9;
-            this.label9.Text = "0";
+            this.maxStreakLabel.AutoSize = true;
+            this.maxStreakLabel.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.maxStreakLabel.Location = new System.Drawing.Point(286, 82);
+            this.maxStreakLabel.Name = "maxStreakLabel";
+            this.maxStreakLabel.Size = new System.Drawing.Size(73, 86);
+            this.maxStreakLabel.TabIndex = 9;
+            this.maxStreakLabel.Text = "0";
             // 
-            // label10
+            // CurrentStreakLabel
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(406, 80);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(73, 86);
-            this.label10.TabIndex = 10;
-            this.label10.Text = "0";
+            this.CurrentStreakLabel.AutoSize = true;
+            this.CurrentStreakLabel.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CurrentStreakLabel.Location = new System.Drawing.Point(406, 80);
+            this.CurrentStreakLabel.Name = "CurrentStreakLabel";
+            this.CurrentStreakLabel.Size = new System.Drawing.Size(73, 86);
+            this.CurrentStreakLabel.TabIndex = 10;
+            this.CurrentStreakLabel.Text = "0";
             // 
             // Stats
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(585, 273);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label7);
+            this.Controls.Add(this.CurrentStreakLabel);
+            this.Controls.Add(this.maxStreakLabel);
+            this.Controls.Add(this.winLabel);
+            this.Controls.Add(this.totalGamesLabel);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -161,6 +161,7 @@
             this.Name = "Stats";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form4";
+            this.Load += new System.EventHandler(this.Stats_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -174,9 +175,9 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label winLabel;
+        private System.Windows.Forms.Label maxStreakLabel;
+        private System.Windows.Forms.Label CurrentStreakLabel;
+        public System.Windows.Forms.Label totalGamesLabel;
     }
 }

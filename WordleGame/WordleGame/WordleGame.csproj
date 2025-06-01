@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EF\Game.cs" />
+    <Compile Include="EF\GameResult.cs" />
     <Compile Include="EF\Guess.cs" />
     <Compile Include="EF\User.cs" />
     <Compile Include="EF\Word.cs" />

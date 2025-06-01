@@ -63,16 +63,6 @@
     <Property Name="Fax" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="Products" Relationship="Self.FK__Product__Supplie__3B75D760" FromRole="Supplier" ToRole="Product" />
   </EntityType>
-  <EntityType Name="sysdiagram">
-    <Key>
-      <PropertyRef Name="diagram_id" />
-    </Key>
-    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="principal_id" Type="Int32" Nullable="false" />
-    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="version" Type="Int32" />
-    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
-  </EntityType>
   <Association Name="FK__Order__CustomerI__3E52440B">
     <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
     <End Role="Order" Type="Self.Order" Multiplicity="*" />
@@ -127,7 +117,6 @@
     <EntitySet Name="OrderItems" EntityType="Self.OrderItem" />
     <EntitySet Name="Products" EntityType="Self.Product" />
     <EntitySet Name="Suppliers" EntityType="Self.Supplier" />
-    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
     <AssociationSet Name="FK__Order__CustomerI__3E52440B" Association="Self.FK__Order__CustomerI__3E52440B">
       <End Role="Customer" EntitySet="Customers" />
       <End Role="Order" EntitySet="Orders" />

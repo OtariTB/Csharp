@@ -55,16 +55,6 @@
     <Property Name="Phone" Type="nvarchar" MaxLength="30" />
     <Property Name="Fax" Type="nvarchar" MaxLength="30" />
   </EntityType>
-  <EntityType Name="sysdiagrams">
-    <Key>
-      <PropertyRef Name="diagram_id" />
-    </Key>
-    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
-    <Property Name="principal_id" Type="int" Nullable="false" />
-    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="version" Type="int" />
-    <Property Name="definition" Type="varbinary(max)" />
-  </EntityType>
   <Association Name="FK__Order__CustomerI__3E52440B">
     <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
     <End Role="Order" Type="Self.Order" Multiplicity="*" />
@@ -150,7 +140,6 @@
     <EntitySet Name="OrderItem" EntityType="Self.OrderItem" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Supplier" EntityType="Self.Supplier" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK__Order__CustomerI__3E52440B" Association="Self.FK__Order__CustomerI__3E52440B">
       <End Role="Customer" EntitySet="Customer" />
       <End Role="Order" EntitySet="Order" />

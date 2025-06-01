@@ -13,7 +13,7 @@ namespace WordleGame
 {
     public partial class Game : Form
     {
-
+        private User _loggedInUser;
         private string currentWord;
         private int attempt = 0;
         private const int maxAttempts = 6;
@@ -70,9 +70,11 @@ namespace WordleGame
                 }
             }
         }
-        public Game()
+        public Game(User user)
         {
+
             InitializeComponent();
+            _loggedInUser = user;
             LoadRandomWord();
             InitializeGrid();
         }
@@ -85,7 +87,7 @@ namespace WordleGame
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             GameForm gameForm = new GameForm();
-            Game game = new Game();
+            Game game = new Game(_loggedInUser);
             this.Hide();
             gameForm.Show();
             game.FormClosed += (s, args) => this.Close();
@@ -93,8 +95,8 @@ namespace WordleGame
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            Stats stats = new Stats();
-            Game game = new Game();
+            Stats stats = new Stats(_loggedInUser);
+            Game game = new Game(_loggedInUser);
             this.Hide();
             stats.Show();
             game.FormClosed += (s, args) => this.Close();
@@ -143,18 +145,36 @@ namespace WordleGame
             CheckGuess(guess);
             SaveGuessToDatabase(guess);
 
+            txtGuess.Clear();
+
+            void SaveGameResult(bool isWin)
+            {
+                using (var db = new WordleModel())
+                {
+                    var result = new GameResult
+                    {
+                        UserId = _loggedInUser.U_Id,
+                        Word = currentWord,
+                        IsWin = isWin,
+                        Attempts = attempt,
+                        DatePlayed = DateTime.Now
+                    };
+                    db.GameResult.Add(result);
+                    db.SaveChanges();
+                }
+            }
             if (guess.ToUpper() == currentWord.ToUpper())
             {
                 MessageBox.Show("You guessed it!");
                 btnSubmit.Enabled = false;
+                SaveGameResult(true);
             }
             else if (attempt >= maxAttempts)
             {
                 MessageBox.Show($"Out of attempts! The word was: {currentWord}");
                 btnSubmit.Enabled = false;
+                SaveGameResult(false);
             }
-
-            txtGuess.Clear();
         }
 
         private void SaveGuessToDatabase(string guess)
@@ -165,7 +185,8 @@ namespace WordleGame
                 {
                     GuessedWord = guess,
                     AttemptNumber = attempt,
-                    Date = DateTime.Now
+                    Date = DateTime.Now,
+                    User_Id = _loggedInUser.U_Id
                 };
 
                 db.Guesses.Add(g);

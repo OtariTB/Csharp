@@ -37,7 +37,7 @@ namespace WordleGame
             if (user != null)
             {
                 MessageBox.Show("Login Successful");
-                GameForm main = new GameForm();
+                Game main = new Game(user);
                 this.Hide();
                 main.Show();
                 main.FormClosed += (s, args) => this.Close();
