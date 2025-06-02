@@ -3,19 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,20 +19,24 @@
       "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\finalc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\db\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\db\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\db\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\visitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|c:\\users\\gsshop.ge\\onedrive - emis\\desktop\\csharp\\finalc#\\finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\mainformp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\finalc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1328A780-6983-454D-B6B0-CF82CF4E49F3}|FinalC#\\FinalC#.csproj|solutionrelative:finalc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "VisitForm.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\VisitForm.cs",
               "RelativeDocumentMoniker": "FinalC#\\VisitForm.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\VisitForm.cs*",
               "RelativeToolTip": "FinalC#\\VisitForm.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowLwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYBAAAAAAAAAAAcwCwBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T16:08:08.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VisitForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\VisitForm.cs",
               "RelativeDocumentMoniker": "FinalC#\\VisitForm.cs",
@@ -75,37 +75,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DoctorForm.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs",
               "RelativeDocumentMoniker": "FinalC#\\DoctorForm.cs",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs*",
-              "RelativeToolTip": "FinalC#\\DoctorForm.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs",
+              "RelativeToolTip": "FinalC#\\DoctorForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T16:46:40.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DoctorForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs",
               "RelativeDocumentMoniker": "FinalC#\\DoctorForm.cs",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs [Design]*",
-              "RelativeToolTip": "FinalC#\\DoctorForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\DoctorForm.cs [Design]",
+              "RelativeToolTip": "FinalC#\\DoctorForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T16:44:36.587Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MainFormP.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs",
               "RelativeDocumentMoniker": "FinalC#\\MainFormP.cs",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs*",
-              "RelativeToolTip": "FinalC#\\MainFormP.cs*",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs",
+              "RelativeToolTip": "FinalC#\\MainFormP.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwCIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T16:38:40.445Z",
@@ -113,19 +113,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainFormP.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs",
               "RelativeDocumentMoniker": "FinalC#\\MainFormP.cs",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs [Design]*",
-              "RelativeToolTip": "FinalC#\\MainFormP.cs [Design]*",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\MainFormP.cs [Design]",
+              "RelativeToolTip": "FinalC#\\MainFormP.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T16:43:06.147Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\db\\DbContext.cs",
               "RelativeDocumentMoniker": "FinalC#\\db\\DbContext.cs",
@@ -138,28 +138,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\db\\Models.cs",
               "RelativeDocumentMoniker": "FinalC#\\db\\Models.cs",
               "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\db\\Models.cs",
               "RelativeToolTip": "FinalC#\\db\\Models.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T14:53:08.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\Form1.cs",
               "RelativeDocumentMoniker": "FinalC#\\Form1.cs",
-              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\Form1.cs [Design]*",
-              "RelativeToolTip": "FinalC#\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\GSSHOP.GE\\OneDrive - EMIS\\Desktop\\Csharp\\FinalC#\\FinalC#\\Form1.cs [Design]",
+              "RelativeToolTip": "FinalC#\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:23:04.301Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-30T14:23:04.301Z"
             }
           ]
         }

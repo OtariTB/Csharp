@@ -21,9 +21,13 @@ namespace FinalC_
 
         private void VisitForm_Load(object sender, EventArgs e)
         {
+            LoadDoctorFilterComboBox();
             LoadVisits();
             LoadComboBoxes();
         }
+
+        private int currentPage = 1;
+        private int pageSize = 10;
 
         private void LoadVisits()
         {
@@ -31,11 +35,21 @@ namespace FinalC_
             {
                 using (var context = new MedicalContext())
                 {
-                    var visitList = context.Visits.ToList();
+                    int skip = (currentPage - 1) * pageSize;
+
+                    var visitList = context.Visits
+                        .OrderBy(d => d.Id)
+                        .Skip(skip)
+                        .Take(pageSize)
+                        .ToList();
                     dataGridView1.DataSource = visitList;
                     dataGridView1.Columns["Doctor"].Visible = false;
                     dataGridView1.Columns["Patient"].Visible = false;
                     dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+
+                    pageLabel.Text = $"{currentPage}";
+                    btnPrevPage.Enabled = currentPage > 1;
+                    btnNextPage.Enabled = skip + pageSize < context.Doctors.Count();
                 }
             }
             catch (Exception ex)
@@ -71,11 +85,6 @@ namespace FinalC_
             doctorBox.DisplayMember = "FullName";
             doctorBox.ValueMember = "Id";
 
-            var filterDoctors = _context.Doctors.ToList();
-            filterDoctors.Insert(0, new Doctor { Id = 0, FullName = "All Doctors" });
-            doctorFilterBox.DataSource = filterDoctors;
-            doctorFilterBox.DisplayMember = "FullName";
-            doctorFilterBox.ValueMember = "Id";
         }
 
         private void addBtn_Click(object sender, EventArgs e)
@@ -184,9 +193,112 @@ namespace FinalC_
             }
         }
 
-        private void doctorFilterBox_SelectedIndexChanged(object sender, EventArgs e)
+        private void LoadDoctorFilterComboBox()
+        {
+            using (var context = new MedicalContext())
+            {
+                var doctors = context.Doctors.ToList();
+
+                doctorFilterBox.DataSource = doctors;
+                doctorFilterBox.DisplayMember = "FullName";
+                doctorFilterBox.ValueMember = "Id";
+                doctorFilterBox.SelectedIndex = 0;
+            }
+        }
+
+        private void FilterVisitsByDoctor()
         {
 
+            var selectedDoctor = doctorFilterBox.SelectedItem as Doctor;
+            if (selectedDoctor == null)
+            {
+                MessageBox.Show("Selected item is not a valid doctor.");
+                return;
+            }
+
+            int selectedDoctorId = selectedDoctor.Id;
+
+            using (var context = new MedicalContext())
+            {
+                var visits = context.Visits
+                    .Include(v => v.Doctor)
+                    .Include(v => v.Patient)
+                    .Where(v => v.DoctorId == selectedDoctorId)
+                    .Select(v => new
+                    {
+                        v.Id,
+                        Patient = v.Patient.FullName,
+                        Doctor = v.Doctor.FullName,
+                        v.VisitDate,
+                        v.Fee
+                    })
+                    .ToList();
+
+                dataGridView1.DataSource = visits;
+                dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            }
+        }
+
+        private void doctorFilterBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            FilterVisitsByDoctor();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            doctorFilterBox.SelectedIndex = 0;
+            LoadVisits();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FilterVisitsByDate();
+        }
+
+        private void FilterVisitsByDate()
+        {
+            if (!dateTimePickerFilter.Checked)
+            {
+                MessageBox.Show("Please select a date to filter by.");
+                return;
+            }
+
+            DateTime selectedDate = dateTimePickerFilter.Value.Date;
+
+            using (var context = new MedicalContext())
+            {
+                var visits = context.Visits
+                    .Include(v => v.Doctor)
+                    .Include(v => v.Patient)
+                    .Where(v => v.VisitDate.Date == selectedDate)
+                    .Select(v => new
+                    {
+                        v.Id,
+                        Patient = v.Patient.FullName,
+                        Doctor = v.Doctor.FullName,
+                        v.VisitDate,
+                        v.Fee
+                    })
+                    .ToList();
+
+                dataGridView1.DataSource = visits;
+                dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            }
+        }
+
+        private void btnPrevPage_Click(object sender, EventArgs e)
+        {
+            if (currentPage > 1)
+            {
+                currentPage--;
+                LoadVisits();
+            }
+        }
+
+        private void btnNextPage_Click(object sender, EventArgs e)
+        {
+            currentPage++;
+            LoadVisits();
         }
     }
 }

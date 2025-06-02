@@ -34,6 +34,9 @@
             label1 = new Label();
             dataGridView1 = new DataGridView();
             label4 = new Label();
+            pageLabel = new Label();
+            btnPrevPage = new Button();
+            btnNextPage = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -77,7 +80,7 @@
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(150, 95);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(777, 377);
+            dataGridView1.Size = new Size(777, 286);
             dataGridView1.TabIndex = 4;
             // 
             // label4
@@ -91,11 +94,43 @@
             label4.TabIndex = 8;
             label4.Text = "Available Doctors";
             // 
+            // pageLabel
+            // 
+            pageLabel.AutoSize = true;
+            pageLabel.Location = new Point(526, 419);
+            pageLabel.Name = "pageLabel";
+            pageLabel.Size = new Size(13, 15);
+            pageLabel.TabIndex = 9;
+            pageLabel.Text = "1";
+            // 
+            // btnPrevPage
+            // 
+            btnPrevPage.Location = new Point(495, 415);
+            btnPrevPage.Name = "btnPrevPage";
+            btnPrevPage.Size = new Size(25, 23);
+            btnPrevPage.TabIndex = 10;
+            btnPrevPage.Text = "<";
+            btnPrevPage.UseVisualStyleBackColor = true;
+            btnPrevPage.Click += btnPrevPage_Click;
+            // 
+            // btnNextPage
+            // 
+            btnNextPage.Location = new Point(545, 415);
+            btnNextPage.Name = "btnNextPage";
+            btnNextPage.Size = new Size(25, 23);
+            btnNextPage.TabIndex = 11;
+            btnNextPage.Text = ">";
+            btnNextPage.UseVisualStyleBackColor = true;
+            btnNextPage.Click += btnNextPage_Click;
+            // 
             // DoctorForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1054, 568);
+            Controls.Add(btnNextPage);
+            Controls.Add(btnPrevPage);
+            Controls.Add(pageLabel);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -117,5 +152,8 @@
         private Label label1;
         private DataGridView dataGridView1;
         private Label label4;
+        private Label pageLabel;
+        private Button btnPrevPage;
+        private Button btnNextPage;
     }
 }

@@ -46,6 +46,13 @@
             label7 = new Label();
             doctorFilterBox = new ComboBox();
             label8 = new Label();
+            button1 = new Button();
+            dateTimePickerFilter = new DateTimePicker();
+            label9 = new Label();
+            button2 = new Button();
+            btnNextPage = new Button();
+            btnPrevPage = new Button();
+            pageLabel = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -98,7 +105,7 @@
             edtBtn.FlatAppearance.BorderSize = 0;
             edtBtn.FlatStyle = FlatStyle.Flat;
             edtBtn.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            edtBtn.Location = new Point(861, 379);
+            edtBtn.Location = new Point(861, 414);
             edtBtn.Name = "edtBtn";
             edtBtn.Size = new Size(185, 40);
             edtBtn.TabIndex = 14;
@@ -112,7 +119,7 @@
             delBtn.FlatAppearance.BorderSize = 0;
             delBtn.FlatStyle = FlatStyle.Flat;
             delBtn.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            delBtn.Location = new Point(666, 379);
+            delBtn.Location = new Point(666, 414);
             delBtn.Name = "delBtn";
             delBtn.Size = new Size(189, 40);
             delBtn.TabIndex = 13;
@@ -126,7 +133,7 @@
             addBtn.FlatAppearance.BorderSize = 0;
             addBtn.FlatStyle = FlatStyle.Flat;
             addBtn.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            addBtn.Location = new Point(480, 379);
+            addBtn.Location = new Point(480, 414);
             addBtn.Name = "addBtn";
             addBtn.Size = new Size(180, 40);
             addBtn.TabIndex = 12;
@@ -225,11 +232,92 @@
             label8.TabIndex = 24;
             label8.Text = "Filter By Doctor";
             // 
+            // button1
+            // 
+            button1.BackColor = Color.Tan;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Location = new Point(949, 96);
+            button1.Name = "button1";
+            button1.Size = new Size(97, 23);
+            button1.TabIndex = 25;
+            button1.Text = "Reset Filter";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // dateTimePickerFilter
+            // 
+            dateTimePickerFilter.Location = new Point(666, 96);
+            dateTimePickerFilter.Name = "dateTimePickerFilter";
+            dateTimePickerFilter.Size = new Size(191, 23);
+            dateTimePickerFilter.TabIndex = 26;
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label9.Location = new Point(666, 72);
+            label9.Name = "label9";
+            label9.Size = new Size(107, 21);
+            label9.TabIndex = 27;
+            label9.Text = "Filter By Date";
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.Aquamarine;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button2.Location = new Point(800, 70);
+            button2.Name = "button2";
+            button2.Size = new Size(57, 23);
+            button2.TabIndex = 28;
+            button2.Text = "Filter";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
+            // btnNextPage
+            // 
+            btnNextPage.Location = new Point(771, 379);
+            btnNextPage.Name = "btnNextPage";
+            btnNextPage.Size = new Size(25, 23);
+            btnNextPage.TabIndex = 31;
+            btnNextPage.Text = ">";
+            btnNextPage.UseVisualStyleBackColor = true;
+            btnNextPage.Click += btnNextPage_Click;
+            // 
+            // btnPrevPage
+            // 
+            btnPrevPage.Location = new Point(721, 379);
+            btnPrevPage.Name = "btnPrevPage";
+            btnPrevPage.Size = new Size(25, 23);
+            btnPrevPage.TabIndex = 30;
+            btnPrevPage.Text = "<";
+            btnPrevPage.UseVisualStyleBackColor = true;
+            btnPrevPage.Click += btnPrevPage_Click;
+            // 
+            // pageLabel
+            // 
+            pageLabel.AutoSize = true;
+            pageLabel.Location = new Point(752, 383);
+            pageLabel.Name = "pageLabel";
+            pageLabel.Size = new Size(13, 15);
+            pageLabel.TabIndex = 29;
+            pageLabel.Text = "1";
+            // 
             // VisitForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1058, 570);
+            Controls.Add(btnNextPage);
+            Controls.Add(btnPrevPage);
+            Controls.Add(pageLabel);
+            Controls.Add(button2);
+            Controls.Add(label9);
+            Controls.Add(dateTimePickerFilter);
+            Controls.Add(button1);
             Controls.Add(label8);
             Controls.Add(doctorFilterBox);
             Controls.Add(txtFee);
@@ -275,5 +363,12 @@
         private Label label7;
         private ComboBox doctorFilterBox;
         private Label label8;
+        private Button button1;
+        private DateTimePicker dateTimePickerFilter;
+        private Label label9;
+        private Button button2;
+        private Button btnNextPage;
+        private Button btnPrevPage;
+        private Label pageLabel;
     }
 }
